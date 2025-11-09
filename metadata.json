@@ -1,0 +1,8 @@
+{
+  "name": "J.A.R.V.I.S. AI Assistant",
+  "description": "A futuristic AI assistant powered by Google Gemini, offering a comprehensive suite of capabilities including chat, image and video generation, real-time voice conversations, content analysis, and grounded search.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
